@@ -1,0 +1,9 @@
+path: D:/NeuroPath/Body_Posture
+
+train: images/train
+val: images/val
+
+kpt_shape: [4, 3]
+
+names:
+  0: person
