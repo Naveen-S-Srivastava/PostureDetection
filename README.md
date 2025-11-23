@@ -262,12 +262,5 @@ Feel free to fork and build on top of this.
 
 ```
 
----
-
-If you want, I can also generate:  
-✅ project logo (AI-designed)  
-✅ cleaner markdown styling  
-✅ Shields.io badges  
-✅ a GIF demo banner  
-Just tell me.
 ```
+
